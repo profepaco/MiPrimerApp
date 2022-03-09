@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="lb_saludo">Hola mundo 803-A</string>
+    <string name="btn_click">Click aquí!!!</string>
+    <string name="mensaje">Escribe tu nombre y da click en el botón</string>
+    <string name="btn_saludo">Enviar saludo</string>
+</resources>
